@@ -8,9 +8,3 @@ package-lock.json
 .meteor/packages
 
 .meteor/package-metadata/v2.0.1/packages.data.db
-
-.meteor/package-metadata/v2.0.1/packages.data.db-shm
-
-.meteor/package-metadata/v2.0.1/packages.data.db-wal
-
-.fuse_hidden0000399300000004
